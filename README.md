@@ -45,7 +45,7 @@ The **Entity Relationship Diagram (ERD)** shows the relationships between the ta
 - **Foreign Keys (FK)**: Ensure the integrity of relationships between tables.
 - **Cardinality**: Defines the relationships (One-to-Many, Many-to-One, etc.)
 
-**View the ERD**: [Lucidchart ERD Link](https://lucid.app/lucidchart/15aa563a-37d7-4580-a2d6-5cb6f9c0d213/edit?invitationId=inv_9ad4376b-19ea-47e1-8b9c-3d11174dc387)
+**View the ERD**: [Lucidchart ERD Link](https://lucid.app/lucidchart/7f011952-5908-41ae-8307-e9868c2ca459/edit?viewport_loc=292%2C-349%2C2110%2C999%2C0_0&invitationId=inv_e377e781-f18d-407f-ad65-f366efe9e3f4)
 
 ## SQL Queries
 
@@ -81,3 +81,4 @@ The **Entity Relationship Diagram (ERD)** shows the relationships between the ta
 This project demonstrates how to structure and query a **Vehicle Rental System** database. By managing users, vehicles, and bookings, the system tracks rental operations while ensuring data consistency and integrity.
 
 Feel free to reach out if you have any questions.
+
